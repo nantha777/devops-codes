@@ -1,2 +1,2 @@
-access = "AKIA3W3BDBSVJIVZB4D7"
-seecret = "02Jof59RfT9gE5uDeQCIUhHchuJWYov583FhTj0Y"
+access = 
+seecret = 
