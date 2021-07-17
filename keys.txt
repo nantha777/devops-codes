@@ -1,0 +1,2 @@
+access = AKIA3W3BDBSVJ6JZIJ7E
+seecret = v6Rqq1bvAXRnIWn7YggAYS3sAcY+W3+LAAEQy4Jt
